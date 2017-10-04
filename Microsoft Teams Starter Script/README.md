@@ -5,7 +5,7 @@ On macOS Microsoft Teams has an issue after update. When application is updated 
 
 ## Usage
 Download this folder and run **Check Microsoft Teams.app**. 
-To run it with system open _Users and Groups_ in _System Preferences_, select your user, click on _Login Items, click on **+** button and select downloaded app.
+To run it with system open _Users and Groups_ in _System Preferences_, select your user, click on _Login Items_, click on **+** button and select downloaded app.
 
 ## Improvements
 - [ ] When starting **Check Microsoft Teams.app** add it to Login Items if it's not already there
